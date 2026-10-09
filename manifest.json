@@ -1,0 +1,9 @@
+{
+  "name": "NhxSimpleDeposit",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Private mod: quick stack into nearby containers, and sort your inventory and chests. Not published on Thunderstore.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ]
+}
